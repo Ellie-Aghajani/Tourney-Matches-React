@@ -34,5 +34,6 @@ const playerData = {
       firstName: "Elliott",
       lastName: "Herrera",
     }
-}
-export default playerData;
+  };
+  
+  export default playerData;
